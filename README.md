@@ -1,5 +1,7 @@
 # Q-Vibes Memory Banking
 
+![Q-Vibes Logo](logo_square.png)
+
 A lightweight context preservation framework for AI-assisted rapid prototyping and vibe-coding sessions. Tested with Amazon Q Developer CLI (`q chat` command).
 
 The Q-Vibes framework helps maintain context across AI assistant sessions through 5 lightweight files, enabling quick prototype development without losing momentum between sessions.
