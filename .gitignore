@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node modules (if someone tests with Node.js)
+node_modules/
+
+# Python cache (if someone tests with Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Environment files (examples should use .env.example)
+.env
+.env.local
+.env.*.local
+
+#q chat files
+q-chat.json
